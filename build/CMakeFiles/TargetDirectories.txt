@@ -1,3 +1,0 @@
-/Users/jimdenne/Desktop/Work/Projects/raytracer/build/CMakeFiles/raytracer.dir
-/Users/jimdenne/Desktop/Work/Projects/raytracer/build/CMakeFiles/edit_cache.dir
-/Users/jimdenne/Desktop/Work/Projects/raytracer/build/CMakeFiles/rebuild_cache.dir
