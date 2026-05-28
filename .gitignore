@@ -1,0 +1,10 @@
+# Build directories
+build/
+cmake-build-*/
+
+# macOS
+.DS_Store
+
+# binaries
+*.out
+*.exe
